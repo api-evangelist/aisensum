@@ -1,0 +1,25 @@
+# generated: 2026-07-17
+# method: searched
+# source: https://aisensum.com/llms.txt
+
+# AISensum
+
+> AISensum builds agentic AI "teammates" that work alongside your front-line staff to drive revenue, improve quality, and reduce labour — keeping the Human in the Lead.
+
+AISensum deploys purpose-built AI teammates for enterprise front-line operations across retail, F&B, hospitality and entertainment. Each teammate specialises in one measurable outcome and is rolled out through a half-day IFA (Intelligent Front-line Automation) Workshop.
+
+## AI Teammates
+- [Daniel — Revenue teammate](https://aisensum.com/daniel/): Surfaces the perfect personalised offer at the counter the instant a customer is identified, lifting basket size while the cashier focuses on the human connection.
+- [Sasha — Time & Cost teammate](https://aisensum.com/sasha/): One AI teammate to edit, search and approve hundreds of product photos — eliminating the manual creative grind so teams simply review and approve.
+- [Nicole — Progress teammate](https://aisensum.com/nicole/): Listens to front-line conversations, scores them against your brand SOPs and helps cashiers self-correct — a supportive coaching tool, not surveillance.
+
+## Programs
+- [IFA Workshop](https://aisensum.com/ifa-workshop/): A half-day Intelligent Front-line Automation workshop that maps your counter goals and pinpoints where AI teammates drive measurable ROI (fee credited back on deployment).
+
+## Company
+- [Teams](https://aisensum.com/teams/): The people behind AISensum.
+- [Contact](https://aisensum.com/contact/): Book a demo or talk to the team.
+- [AI Newsroom](https://aisensum.com/ai-newsroom/): Curated AI news and analysis for enterprise leaders.
+
+## Optional
+- [Privacy Policy](https://aisensum.com/privacy-policy/)

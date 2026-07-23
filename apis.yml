@@ -1,7 +1,28 @@
 aid: aisensum
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aisensum.png
 name: AiSensum
-description: AiSensum is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  AiSensum (AISensum) builds agentic AI "teammates" that work alongside front-line staff to
+  drive revenue, improve quality, and reduce labour while keeping the human in the lead. Operating
+  since 2017 with a presence across Southeast Asia, it deploys purpose-built AI teammates for
+  enterprise front-line operations in retail, F&B, hospitality and entertainment, each specialising
+  in one measurable outcome: Daniel (revenue teammate, personalised counter offers/upsell), Sasha
+  (time and cost teammate, bulk product-photo editing and approval), and Nicole (progress teammate,
+  conversation scoring and cashier coaching against brand SOPs). Deployments are scoped through a
+  half-day IFA (Intelligent Front-line Automation) Workshop. AiSensum publishes no public API,
+  SDK, or developer portal; it is a portfolio company of 500 Global tracked in the API Evangelist
+  network. This profile was enriched from the company's public web presence and an on-site llms.txt.
 url: https://raw.githubusercontent.com/api-evangelist/aisensum/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,6 +35,14 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Artificial Intelligence
+- AI Agents
+- Retail
+- Food and Beverage
+- Hospitality
+- Customer Experience
+- Enterprise Software
+- Southeast Asia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +50,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/aisensum-domain-security.yml
+- type: LLMsTxt
+  url: llms/aisensum-llms.txt
 - type: Website
   url: https://aisensum.com
+- type: Support
+  url: https://aisensum.com/contact/
+- type: PrivacyPolicy
+  url: https://aisensum.com/privacy-policy/
+- type: TermsOfService
+  url: https://aisensum.com/terms-of-service/
+- type: Blog
+  url: https://aisensum.com/ai-newsroom/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

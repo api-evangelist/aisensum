@@ -1,0 +1,19 @@
+generated: '2026-07-17'
+method: searched
+source: live probes of https://aisensum.com/.well-known/*
+host: https://aisensum.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  No .well-known discovery documents are published. AiSensum exposes no public
+  API surface (no OpenAPI, SDK, or developer portal), so there is no well-known
+  catalog to index. Recorded for auditability; no scoring pointer wired.
