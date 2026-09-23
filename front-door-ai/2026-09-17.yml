@@ -1,0 +1,33 @@
+# Front Door AI Index — aisensum — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: aisensum
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: aisensum.com
+  final_host: aisensum.com
+  ownership: own
+  owner: aisensum
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 69
+  host_score: 69
+  density: 40.05
+  words: 1723
+  tiers:
+    agentic: 6
+    core: 62
+    model: 1
+  ambiguous: 9
+  top_terms:
+    AI: 62
+    automation: 5
+    agentic: 4
+    intelligence: 2
+    AI agent: 1
+    AI assistant: 1
+    OpenAI: 1
+    agent: 1
+    smart: 1
